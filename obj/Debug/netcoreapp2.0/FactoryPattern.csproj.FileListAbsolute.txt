@@ -1,0 +1,11 @@
+E:\Bingi\Bingi\Learnings\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.deps.json
+E:\Bingi\Bingi\Learnings\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.runtimeconfig.json
+E:\Bingi\Bingi\Learnings\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.runtimeconfig.dev.json
+E:\Bingi\Bingi\Learnings\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.dll
+E:\Bingi\Bingi\Learnings\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.pdb
+E:\Bingi\Bingi\Learnings\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csprojResolveAssemblyReference.cache
+E:\Bingi\Bingi\Learnings\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csproj.CoreCompileInputs.cache
+E:\Bingi\Bingi\Learnings\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfoInputs.cache
+E:\Bingi\Bingi\Learnings\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfo.cs
+E:\Bingi\Bingi\Learnings\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.dll
+E:\Bingi\Bingi\Learnings\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.pdb
